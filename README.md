@@ -29,5 +29,5 @@ python space_invader.py
 - Multiple lives for the player
 - Increasing difficulty as the game progresses
 
-Here is the demo: 
+## Here is the demo: 
 ![game](./game.gif)
