@@ -28,3 +28,6 @@ python space_invader.py
 - Sound effects
 - Multiple lives for the player
 - Increasing difficulty as the game progresses
+
+Here is the demo: 
+![game](./game.gif)
